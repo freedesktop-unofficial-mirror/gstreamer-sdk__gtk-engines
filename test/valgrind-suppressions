@@ -1,0 +1,57 @@
+{
+   Some invalid access on application startup
+   Memcheck:Param
+   writev(vector[...])
+   fun:*writev
+   obj:/usr/lib/libX11.so.6.2.0
+   fun:_X11TransWritev
+   fun:_XSend
+   fun:XQueryExtension
+   fun:XInitExtension
+   fun:XFixesFindDisplay
+   fun:XFixesQueryExtension
+   fun:gdk_display_open
+}
+{
+   Some ld thing.
+   Memcheck:Cond
+   fun:_dl_start
+   fun:_start
+   obj:*
+   obj:*
+   obj:*
+   obj:*
+}
+{
+   something else, dunno what exactly
+   Memcheck:Param
+   write(buf)
+   fun:*write*
+   fun:_X11TransWrite*
+   obj:/usr/lib/libX11.so*
+}
+{
+   Some home directory stuff, happens when loading the engine
+   Memcheck:Leak
+   fun:malloc
+   fun:nss_parse_service_list
+   fun:__nss_database_lookup
+   obj:*
+   obj:*
+   fun:getpwnam_r@@GLIBC_2.1.2
+   fun:g_get_any_init_do
+   fun:g_get_home_dir
+}
+{
+   pango/fc leak
+   Memcheck:Leak
+   fun:*alloc
+   fun:FcPatternObject*
+}
+{
+   pango/fc leak
+   Memcheck:Leak
+   fun:*alloc
+   fun:FcConfigValues*
+   fun:FcConfigSubstituteWithPat
+}
