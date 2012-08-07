@@ -13,6 +13,8 @@ style "default" {
 	GtkButton::child-displacement-x = 1
 	GtkButton::child-displacement-y = 1
 	GtkButton::default-border = { 0, 0, 0, 0 }
+	GtkButton::image-spacing = 4
+	GtkToolButton::icon-spacing = 4
 
 	GtkCheckButton::indicator-size = 14
 
@@ -398,9 +400,9 @@ widget "gtk-tooltip*" style "tooltips"
 ##########################################################################
 
 # Workaround for the evolution ETable (bug #527532)
-widget_class "*.ETable.ECanvas" style "treeview_header"
+widget_class "*.<ETable>.<ECanvas>" style "treeview_header"
 # Workaround for the evolution ETree
-widget_class "*.ETree.ECanvas" style "treeview_header"
+widget_class "*.<ETree>.<ECanvas>" style "treeview_header"
 
 # Special case the nautilus-extra-view-widget
 # ToDo: A more generic approach for all applications that have a widget like this.

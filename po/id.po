@@ -1,216 +1,214 @@
-# translation of gl.po to Galego
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# translation of gtk-engines to Indonesian
+# Copyright (C) 2010 THE gtk-engines 'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the gtk-engines package.
 #
-# Ignacio Casal Quinteiro <icq@cvs.gnome.org>, 2007.
-# Ignacio Casal Quinteiro <icq@svn.gnome.org>, 2007, 2008.
-# Mancomún - Centro de Referencia e Servizos de Software Libre <g11n@mancomun.org>, 2009.
+# Dirgita <dirgitadevina@gmail.com>, 2010.
+# Dirgita <dirgitadevina@yahoo.co.id>, 2010.
 msgid ""
 msgstr ""
-"Project-Id-Version: gl\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-02-15 18:04+0100\n"
-"PO-Revision-Date: 2009-03-10 20:17+0000\n"
-"Last-Translator: Suso Baleato <suso.baleato@xunta.es>\n"
-"Language-Team: Galego <proxecto@trasno.net>\n"
+"Project-Id-Version: gtk-engines gtk-engines-2-22\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gtk-"
+"engines&component=general\n"
+"POT-Creation-Date: 2010-06-21 12:07+0000\n"
+"PO-Revision-Date: 2010-09-05 13:53+0700\n"
+"Last-Translator: Dirgita <dirgitadevina@yahoo.co.id>\n"
+"Language-Team: GNOME Indonesian Translation Team <gnome@i15n.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: gl\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../schema/clearlooks.xml.in.in.h:1
 msgid "3d-ish (button)"
-msgstr "3D (botón)"
+msgstr "3D (tombol)"
 
 #: ../schema/clearlooks.xml.in.in.h:2
 msgid "3d-ish (gradient)"
-msgstr "3D (gradiente)"
+msgstr "3D (gradien)"
 
 #: ../schema/clearlooks.xml.in.in.h:3
 msgid "Animations"
-msgstr "Animacións"
+msgstr "Animasi"
 
 #: ../schema/clearlooks.xml.in.in.h:4
 msgid "Classic"
-msgstr "Clásico"
+msgstr "Klasik"
 
 #: ../schema/clearlooks.xml.in.in.h:5
 msgid "Colorize Scrollbar"
-msgstr "Colorear a barra de desprazamento"
+msgstr "Warnai Batang Penggulung"
 
 #: ../schema/clearlooks.xml.in.in.h:6 ../schema/industrial.xml.in.in.h:1
 msgid "Contrast"
-msgstr "Contraste"
+msgstr "Kontras"
 
 #: ../schema/clearlooks.xml.in.in.h:7
 msgid "Disable focus drawing"
-msgstr "Desactivar o debuxo do foco"
+msgstr "Nonaktifkan menggambar fokus"
 
+# @Dirgita: "progressbar" sebagai "batang kemajuan" tidak akan cocok^^
 #: ../schema/clearlooks.xml.in.in.h:8
 msgid "Enable Animations on Progressbars"
-msgstr "Activar animacións nas barras de progreso"
+msgstr "Aktifkan Animasi untuk Indikator Proses"
 
 #: ../schema/clearlooks.xml.in.in.h:9
 msgid "Flat"
-msgstr "Plano"
+msgstr "Datar"
 
 #: ../schema/clearlooks.xml.in.in.h:10
 msgid "Glossy"
-msgstr "Brillante"
+msgstr "Mengkilap"
 
 #: ../schema/clearlooks.xml.in.in.h:11
 msgid "Gummy"
-msgstr "Pegañento"
+msgstr "Karet"
 
 #: ../schema/clearlooks.xml.in.in.h:12
 msgid "Inset"
-msgstr "Baixorrelevo"
+msgstr "Inset"
 
 #: ../schema/clearlooks.xml.in.in.h:13
 msgid "Inverted"
-msgstr "Invertido"
+msgstr "Kebalikan"
 
 #: ../schema/clearlooks.xml.in.in.h:14
 msgid "Menubar Style"
-msgstr "Estilo da barra de menú"
+msgstr "Gaya Baris Menu"
 
 #: ../schema/clearlooks.xml.in.in.h:15
 msgid "Radius"
-msgstr "Raio"
+msgstr "Radius"
 
 #: ../schema/clearlooks.xml.in.in.h:16
 msgid "Relief Style"
-msgstr "Estilo relevo"
+msgstr "Gaya Relief"
 
 #: ../schema/clearlooks.xml.in.in.h:17
 msgid "Requires style Glossy or Gummy"
-msgstr "Necesita o estilo Pulido ou Pegañento"
+msgstr "Memerlukan gaya Mengkilap atau Karet"
 
 #: ../schema/clearlooks.xml.in.in.h:18
 msgid "Scrollbar Color"
-msgstr "Cor da barra de desprazamento"
+msgstr "Warna Batang Penggulung"
 
 #: ../schema/clearlooks.xml.in.in.h:19
 msgid "Sets the Color of Scrollbars"
-msgstr "Define a cor das barras de desprazamento"
+msgstr "Menentukan Warna untuk Batang Penggulung"
 
 #: ../schema/clearlooks.xml.in.in.h:20
 msgid "Shadow"
-msgstr "Sombra"
+msgstr "Bayangan"
 
 #: ../schema/clearlooks.xml.in.in.h:21
 msgid "Style"
-msgstr "Estilo"
+msgstr "Gaya"
 
 #: ../schema/clearlooks.xml.in.in.h:22
 msgid ""
 "This option allows to disable the focus drawing. The primary purpose is to "
 "create screenshots for documentation."
 msgstr ""
-"Esta opción permite desactivar o debuxo do foco. O propósito primario é "
-"crear capturas de pantalla para a documentación."
+"Dengan opsi ini, maka penggambaran fokus tidak akan aktif. Kegunaan utamanya "
+"adalah dalam membuat cuplikan layar untuk dokumentasi."
 
 #: ../schema/clearlooks.xml.in.in.h:23
 msgid "Toolbar Style"
-msgstr "Estilo da barra de ferramentas"
+msgstr "Gaya Baris Alat"
 
 #: ../schema/hcengine.xml.in.in.h:1
 msgid "Cell Indicator Size"
-msgstr "Indicador do tamaño da cela"
+msgstr "Ukuran Sel Indikator"
 
 #: ../schema/hcengine.xml.in.in.h:2
 msgid "Edge Thickness"
-msgstr "Grosor do bordo"
+msgstr "Ketebalan Bagian Pinggir"
 
 #: ../schema/hcengine.xml.in.in.h:3
 msgid "Size of check- and radiobuttons inside treeviews. (Bug #351764)"
 msgstr ""
-"Tamaño dos botóns de caixa de verificación e de opción dentro das "
-"visualizacións en árbore. (Bug #351764)"
+"Ukuran kotak cek dan tombol radio di dalam tampilan pohon. (Bug #351764)"
 
 #: ../schema/industrial.xml.in.in.h:2
 msgid "If set, button corners are rounded"
-msgstr "Se está activado, as esquinas dos botóns son redondeadas"
+msgstr "Apabila ditentukan, maka sudut tombol akan membulat"
 
 #: ../schema/industrial.xml.in.in.h:3
 msgid "Rounded Buttons"
-msgstr "Botóns redondeados"
+msgstr "Tombol Membulat"
 
 #: ../schema/thinice.xml.in.in.h:1
 msgid "Arrow"
-msgstr "Frecha"
+msgstr "Panah"
 
 #: ../schema/thinice.xml.in.in.h:2
 msgid "Dot"
-msgstr "Punto"
+msgstr "Titik"
 
 #: ../schema/thinice.xml.in.in.h:3
 msgid "Full"
-msgstr "Completo"
+msgstr "Penuh"
 
 #: ../schema/thinice.xml.in.in.h:4
 msgid "Handlebox Marks"
-msgstr "Marcas das caixas manipuladoras"
+msgstr "Penanda Kotak Gagang"
 
 #: ../schema/thinice.xml.in.in.h:5
 msgid "Inverted Dot"
-msgstr "Punto invertido"
+msgstr "Titik Terbalik"
 
 #: ../schema/thinice.xml.in.in.h:6
 msgid "Inverted Slash"
-msgstr "Barra invertida"
+msgstr "Garis Terbalik"
 
 #: ../schema/thinice.xml.in.in.h:7
 msgid "Mark Type 1"
-msgstr "Tipo de marca 1"
+msgstr "Penanda Jenis 1"
 
 #: ../schema/thinice.xml.in.in.h:8
 msgid "Mark Type for Scrollbar Buttons"
-msgstr "Tipo de marca para os botóns da barra de desprazamento"
+msgstr "Jenis Tanda untuk Tombol Batang Penggulung"
 
 #: ../schema/thinice.xml.in.in.h:9
 msgid "Mark Type for Scrollbar Handles, Handleboxes, etc"
-msgstr ""
-"Tipo de marca para os manexadores da barra de desprazamento, as caixas "
-"manipuladoras etc."
+msgstr "Jenis Tanda untuk Gagang Batang Penggulung, Kotak Gagang, dll"
 
 #: ../schema/thinice.xml.in.in.h:10
 msgid "None"
-msgstr "Ningún"
+msgstr "Nihil"
 
 #: ../schema/thinice.xml.in.in.h:11
 msgid "Nothing"
-msgstr "Nada"
+msgstr "Tidak Ada"
 
 #: ../schema/thinice.xml.in.in.h:12
 msgid "Paned Dots"
-msgstr "Puntos espazados"
+msgstr "Titik-titik"
 
 #: ../schema/thinice.xml.in.in.h:13
 msgid "Rectangle"
-msgstr "Rectángulo"
+msgstr "Bujur Sangkar"
 
 #: ../schema/thinice.xml.in.in.h:14
 msgid "Scrollbar Marks"
-msgstr "Marcas das barras de desprazamento"
+msgstr "Tanda Batang Penggulung"
 
 #: ../schema/thinice.xml.in.in.h:15
 msgid "Scrollbar Type"
-msgstr "Tipo de barra de desprazamento"
+msgstr "Jenis Batang Penggulung"
 
 #: ../schema/thinice.xml.in.in.h:16
 msgid "Scrollbutton Marks"
-msgstr "Marcas do botón de desprazamento"
+msgstr "Tanda Tombol Penggulung"
 
 #: ../schema/thinice.xml.in.in.h:17
 msgid "Shaped"
-msgstr "Con forma"
+msgstr "Berbentuk"
 
 #: ../schema/thinice.xml.in.in.h:18
 msgid "Slash"
-msgstr "Barra"
+msgstr "Garis"
 
 #: ../schema/thinice.xml.in.in.h:19
 msgid "Some"
-msgstr "Algunhas"
+msgstr "Beberapa"

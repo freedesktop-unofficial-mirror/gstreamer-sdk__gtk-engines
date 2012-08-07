@@ -1,216 +1,222 @@
-# translation of gl.po to Galego
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-#
-# Ignacio Casal Quinteiro <icq@cvs.gnome.org>, 2007.
-# Ignacio Casal Quinteiro <icq@svn.gnome.org>, 2007, 2008.
-# Mancomún - Centro de Referencia e Servizos de Software Libre <g11n@mancomun.org>, 2009.
+# Shavian translation for gtk-engines.
+# Copyright (C) 2009 The Gnome Foundation.
+# Thomas Thurman <tthurman@gnome.org>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: gl\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-02-15 18:04+0100\n"
-"PO-Revision-Date: 2009-03-10 20:17+0000\n"
-"Last-Translator: Suso Baleato <suso.baleato@xunta.es>\n"
-"Language-Team: Galego <proxecto@trasno.net>\n"
+"Project-Id-Version: metacity\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gtk-engines&component=general\n"
+"POT-Creation-Date: 2010-04-30 17:35+0000\n"
+"PO-Revision-Date: 2010-05-12 18:37 -0400\n"
+"Last-Translator: Thomas Thurman <tthurman@gnome.org>\n"
+"Language-Team: Shavian <ubuntu-l10n-en-shaw@launchpad.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: gl\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
 
 #: ../schema/clearlooks.xml.in.in.h:1
 msgid "3d-ish (button)"
-msgstr "3D (botón)"
+msgstr "3d-𐑦𐑖 (𐑚𐑳𐑑𐑩𐑯)"
 
 #: ../schema/clearlooks.xml.in.in.h:2
 msgid "3d-ish (gradient)"
-msgstr "3D (gradiente)"
+msgstr "3d-𐑦𐑖 (𐑜𐑮𐑱𐑛𐑦𐑩𐑯𐑑)"
 
 #: ../schema/clearlooks.xml.in.in.h:3
 msgid "Animations"
-msgstr "Animacións"
+msgstr "𐑨𐑯𐑩𐑥𐑱𐑖𐑩𐑯𐑟"
 
 #: ../schema/clearlooks.xml.in.in.h:4
 msgid "Classic"
-msgstr "Clásico"
+msgstr "𐑒𐑤𐑨𐑕𐑦𐑒"
 
+#, fuzzy
 #: ../schema/clearlooks.xml.in.in.h:5
 msgid "Colorize Scrollbar"
-msgstr "Colorear a barra de desprazamento"
+msgstr "𐑒𐑩𐑤𐑻𐑲𐑟 Scrollbar"
 
 #: ../schema/clearlooks.xml.in.in.h:6 ../schema/industrial.xml.in.in.h:1
 msgid "Contrast"
-msgstr "Contraste"
+msgstr "𐑒𐑩𐑯𐑑𐑮𐑭𐑕𐑑"
 
 #: ../schema/clearlooks.xml.in.in.h:7
 msgid "Disable focus drawing"
-msgstr "Desactivar o debuxo do foco"
+msgstr "𐑛𐑦𐑕𐑱𐑚𐑩𐑤 𐑓𐑴𐑒𐑩𐑕 𐑛𐑮𐑷𐑦𐑙"
 
+#, fuzzy
 #: ../schema/clearlooks.xml.in.in.h:8
 msgid "Enable Animations on Progressbars"
-msgstr "Activar animacións nas barras de progreso"
+msgstr "𐑦𐑯𐑱𐑚𐑩𐑤 𐑨𐑯𐑩𐑥𐑱𐑖𐑩𐑯𐑟 𐑪𐑯 Progressbars"
 
 #: ../schema/clearlooks.xml.in.in.h:9
 msgid "Flat"
-msgstr "Plano"
+msgstr "𐑓𐑤𐑨𐑑"
 
 #: ../schema/clearlooks.xml.in.in.h:10
 msgid "Glossy"
-msgstr "Brillante"
+msgstr "𐑜𐑤𐑪𐑕𐑦"
 
 #: ../schema/clearlooks.xml.in.in.h:11
 msgid "Gummy"
-msgstr "Pegañento"
+msgstr "𐑜𐑳𐑥𐑦"
 
 #: ../schema/clearlooks.xml.in.in.h:12
 msgid "Inset"
-msgstr "Baixorrelevo"
+msgstr "𐑦𐑯𐑕𐑧𐑑"
 
 #: ../schema/clearlooks.xml.in.in.h:13
 msgid "Inverted"
-msgstr "Invertido"
+msgstr "𐑦𐑯𐑝𐑻𐑑𐑦𐑛"
 
+#, fuzzy
 #: ../schema/clearlooks.xml.in.in.h:14
 msgid "Menubar Style"
-msgstr "Estilo da barra de menú"
+msgstr "Menubar 𐑕𐑑𐑲𐑤"
 
 #: ../schema/clearlooks.xml.in.in.h:15
 msgid "Radius"
-msgstr "Raio"
+msgstr "𐑮𐑱𐑛𐑦𐑩𐑕"
 
 #: ../schema/clearlooks.xml.in.in.h:16
 msgid "Relief Style"
-msgstr "Estilo relevo"
+msgstr "𐑮𐑦𐑤𐑰𐑓 𐑕𐑑𐑲𐑤"
 
 #: ../schema/clearlooks.xml.in.in.h:17
 msgid "Requires style Glossy or Gummy"
-msgstr "Necesita o estilo Pulido ou Pegañento"
+msgstr "𐑮𐑦𐑒𐑢𐑲𐑼𐑟 𐑕𐑑𐑲𐑤 𐑜𐑤𐑪𐑕𐑰 𐑹 𐑜𐑩𐑥𐑰"
 
+#, fuzzy
 #: ../schema/clearlooks.xml.in.in.h:18
 msgid "Scrollbar Color"
-msgstr "Cor da barra de desprazamento"
+msgstr "Scrollbar 𐑒𐑳𐑤𐑼"
 
+#, fuzzy
 #: ../schema/clearlooks.xml.in.in.h:19
 msgid "Sets the Color of Scrollbars"
-msgstr "Define a cor das barras de desprazamento"
+msgstr "𐑕𐑧𐑑𐑕 𐑞 𐑒𐑳𐑤𐑼 𐑝 Scrollbars"
 
 #: ../schema/clearlooks.xml.in.in.h:20
 msgid "Shadow"
-msgstr "Sombra"
+msgstr "𐑖𐑨𐑛𐑴"
 
 #: ../schema/clearlooks.xml.in.in.h:21
 msgid "Style"
-msgstr "Estilo"
+msgstr "𐑕𐑑𐑲𐑤"
 
+#, fuzzy
 #: ../schema/clearlooks.xml.in.in.h:22
 msgid ""
 "This option allows to disable the focus drawing. The primary purpose is to "
 "create screenshots for documentation."
 msgstr ""
-"Esta opción permite desactivar o debuxo do foco. O propósito primario é "
-"crear capturas de pantalla para a documentación."
+"𐑞𐑦𐑕 𐑪𐑐𐑖𐑩𐑯 𐑩𐑤𐑬𐑟 𐑑 𐑛𐑦𐑕𐑱𐑚𐑩𐑤 𐑞 𐑓𐑴𐑒𐑩𐑕 𐑛𐑮𐑷𐑦𐑙. 𐑞 𐑐𐑮𐑲𐑥𐑩𐑮𐑦 𐑐𐑻𐑐𐑩𐑕 𐑦𐑟 𐑑 𐑒𐑮𐑦𐑱𐑑 "
+"screenshots 𐑓𐑹 𐑛𐑪𐑒𐑿𐑥𐑩𐑯𐑑𐑱𐑖𐑩𐑯."
 
 #: ../schema/clearlooks.xml.in.in.h:23
 msgid "Toolbar Style"
-msgstr "Estilo da barra de ferramentas"
+msgstr "𐑑𐑵𐑤𐑚𐑸 𐑕𐑑𐑲𐑤"
 
 #: ../schema/hcengine.xml.in.in.h:1
 msgid "Cell Indicator Size"
-msgstr "Indicador do tamaño da cela"
+msgstr "𐑕𐑧𐑤 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑼 𐑕𐑲𐑟"
 
 #: ../schema/hcengine.xml.in.in.h:2
 msgid "Edge Thickness"
-msgstr "Grosor do bordo"
+msgstr "𐑧𐑡 𐑔𐑦𐑒𐑯𐑩𐑕"
 
+#, fuzzy
 #: ../schema/hcengine.xml.in.in.h:3
 msgid "Size of check- and radiobuttons inside treeviews. (Bug #351764)"
-msgstr ""
-"Tamaño dos botóns de caixa de verificación e de opción dentro das "
-"visualizacións en árbore. (Bug #351764)"
+msgstr "𐑕𐑲𐑟 𐑝 𐑗𐑧𐑒- 𐑯 radiobuttons 𐑦𐑯𐑕𐑲𐑛 treeviews. (𐑚𐑳𐑜 #351764)"
 
 #: ../schema/industrial.xml.in.in.h:2
 msgid "If set, button corners are rounded"
-msgstr "Se está activado, as esquinas dos botóns son redondeadas"
+msgstr "𐑦𐑓 𐑕𐑧𐑑, 𐑚𐑳𐑑𐑩𐑯 𐑒𐑹𐑯𐑼𐑟 𐑸 𐑮𐑬𐑯𐑛𐑩𐑛"
 
 #: ../schema/industrial.xml.in.in.h:3
 msgid "Rounded Buttons"
-msgstr "Botóns redondeados"
+msgstr "𐑮𐑬𐑯𐑛𐑩𐑛 𐑚𐑳𐑑𐑩𐑯𐑟"
 
 #: ../schema/thinice.xml.in.in.h:1
 msgid "Arrow"
-msgstr "Frecha"
+msgstr "𐑸𐑴"
 
 #: ../schema/thinice.xml.in.in.h:2
 msgid "Dot"
-msgstr "Punto"
+msgstr "𐑛𐑪𐑑"
 
 #: ../schema/thinice.xml.in.in.h:3
 msgid "Full"
-msgstr "Completo"
+msgstr "𐑓𐑫𐑤"
 
+#, fuzzy
 #: ../schema/thinice.xml.in.in.h:4
 msgid "Handlebox Marks"
-msgstr "Marcas das caixas manipuladoras"
+msgstr "Handlebox 𐑥𐑸𐑒𐑕"
 
 #: ../schema/thinice.xml.in.in.h:5
 msgid "Inverted Dot"
-msgstr "Punto invertido"
+msgstr "𐑦𐑯𐑝𐑻𐑑𐑦𐑛 𐑛𐑪𐑑"
 
 #: ../schema/thinice.xml.in.in.h:6
 msgid "Inverted Slash"
-msgstr "Barra invertida"
+msgstr "𐑦𐑯𐑝𐑻𐑑𐑦𐑛 𐑕𐑤𐑨𐑖"
 
 #: ../schema/thinice.xml.in.in.h:7
 msgid "Mark Type 1"
-msgstr "Tipo de marca 1"
+msgstr "𐑥𐑸𐑒 𐑑𐑲𐑐 1"
 
+#, fuzzy
 #: ../schema/thinice.xml.in.in.h:8
 msgid "Mark Type for Scrollbar Buttons"
-msgstr "Tipo de marca para os botóns da barra de desprazamento"
+msgstr "·𐑥𐑸𐑒 𐑑𐑲𐑐 𐑓𐑹 Scrollbar 𐑚𐑳𐑑𐑩𐑯𐑟"
 
+#, fuzzy
 #: ../schema/thinice.xml.in.in.h:9
 msgid "Mark Type for Scrollbar Handles, Handleboxes, etc"
-msgstr ""
-"Tipo de marca para os manexadores da barra de desprazamento, as caixas "
-"manipuladoras etc."
+msgstr "·𐑥𐑸𐑒 𐑑𐑲𐑐 𐑓𐑹 Scrollbar 𐑣𐑨𐑯𐑛𐑩𐑤𐑟, Handleboxes, 𐑧𐑑𐑕"
 
 #: ../schema/thinice.xml.in.in.h:10
 msgid "None"
-msgstr "Ningún"
+msgstr "𐑯𐑳𐑯"
 
 #: ../schema/thinice.xml.in.in.h:11
 msgid "Nothing"
-msgstr "Nada"
+msgstr "𐑯𐑳𐑔𐑦𐑙"
 
+#, fuzzy
 #: ../schema/thinice.xml.in.in.h:12
 msgid "Paned Dots"
-msgstr "Puntos espazados"
+msgstr "Paned 𐑛𐑪𐑑𐑕"
 
 #: ../schema/thinice.xml.in.in.h:13
 msgid "Rectangle"
-msgstr "Rectángulo"
+msgstr "𐑮𐑧𐑒𐑑𐑨𐑙𐑜𐑩𐑤"
 
+#, fuzzy
 #: ../schema/thinice.xml.in.in.h:14
 msgid "Scrollbar Marks"
-msgstr "Marcas das barras de desprazamento"
+msgstr "Scrollbar 𐑥𐑸𐑒𐑕"
 
+#, fuzzy
 #: ../schema/thinice.xml.in.in.h:15
 msgid "Scrollbar Type"
-msgstr "Tipo de barra de desprazamento"
+msgstr "Scrollbar 𐑑𐑲𐑐"
 
+#, fuzzy
 #: ../schema/thinice.xml.in.in.h:16
 msgid "Scrollbutton Marks"
-msgstr "Marcas do botón de desprazamento"
+msgstr "Scrollbutton 𐑥𐑸𐑒𐑕"
 
 #: ../schema/thinice.xml.in.in.h:17
 msgid "Shaped"
-msgstr "Con forma"
+msgstr "𐑖𐑱𐑐𐑑"
 
 #: ../schema/thinice.xml.in.in.h:18
 msgid "Slash"
-msgstr "Barra"
+msgstr "𐑕𐑤𐑨𐑖"
 
 #: ../schema/thinice.xml.in.in.h:19
 msgid "Some"
-msgstr "Algunhas"
+msgstr "𐑕𐑳𐑥"
+

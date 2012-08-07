@@ -1,6 +1,6 @@
 Summary: Default GTK+ theme engines
 Name: gtk2-engines
-Version: 2.18.5
+Version: 2.20.2
 Release: 1
 License: GPL
 Group: X11/Libraries

@@ -1,43 +1,67 @@
-Overview of Changes in 2.18.5 (since 2.18.4)
+Overview of Changes in 2.20.2 (since 2.10.1)
 ============================================
 
 Changes in this release:
- - Removal of a potential infinite loop in different clearlooks styles
+ - Fix evolution ETree header in Clearlooks
+ - Minor fixes in mist
+ - Removed Xfce specific workaround from the clearlooks engine (bug #616124)
+
+Added/updated translations:
+ - en@shaw, courtesy of Thomas Thurman 
+ - id, courtesy of Dirgita 
+ - ja, courtesy of Takeshi AIHANA 
+ - lv, courtesy of Anita Reitere 
+ - sl, courtesy of Matej Urbančič 
+
+Overview of Changes in 2.20.1 (since 2.20.0)
+============================================
+
+Changes in this release:
+ - Fixes the shadow around entries in the Clearlooks Gummy style.
+
+Overview of Changes in 2.20.0 (since 2.19.0)
+============================================
+
+Changes in this release:
+ - Increased spacing between icons and labels in Clearlooks
 
 GNOME bugs fixed in this release:
- 603445 -  update to support automake 1.11 +silent build.
+ 594014 - gtk-engines: system-lua check is buggy
 
 New and updated translations:
- Ivar Smolin (et)
- Lucian Adrian Grijincu (ro)
+ F Wolff (af)
+ Israt Jahan (bn)
+ Suso Baleato (gl)
+ Xandru Armesto (ast)
 
-Overview of Changes in 2.18.4 (since 2.18.3)
+
+Overview of Changes in 2.19.0 (since 2.18.2)
 ============================================
 
-This release fixes several problems with the lua engine that were introduced
-in 2.18.3.
+Changes in this release:
+ - Option to use the systems version of liblua
+ - Removal of a potential endless loop in different Clearlooks styles
+ - Support for Automake 1.11.
+ - Improvements for bug #525065 (small Clearlooks themes)
 
 GNOME bugs fixed in this release:
- 595907 - liblua not disted in 2.18.3
-
-Overview of Changes in 2.18.3 (since 2.18.2)
-============================================
-
-GNOME bugs fixed in this release:
- 593674 - Add --enable-system-lua configure option for system liblua linkage
- 594014 - system-lua check is buggy  
-
+ 594014 - gtk-engines: system-lua check is buggy
+ 572178 - Remove deprecated GTK+ symbols
+ 500952 - check/radio buttons have no insensitive states (mist)
+ 502165 - Inconsistent toggle buttons are drawn unselected
+ 
 New and updated translations:
  Gil Forcada (ca@valencia)
  Goran Rakić (sr@latin)
  Israt Jahan (bn)
  Khaled Hosny (ar)
  Krix Apolinário (pt_BR)
- Ani Peter (ml)
+ Lucian Adrian Grijincu (ro)
  Rajesh Ranjan (hi)
  Runa Bhattacharjee (bn_IN)
  Sangeeta Kumari (mai)
  Seán de Búrca (ga)
+ Thomas Thurman (en@shaw)
  wanderlust (uk)
  Yavor Doganov (bg)
  Горан Ракић (sr)
@@ -46,6 +70,7 @@ New and updated translations:
 Overview of Changes in 2.18.2 (since 2.18.1)
 ============================================
 
+Changes in this release:
  - Changes for the git migration (doap file, ChangeLog)
 
 GNOME bugs fixed in this release:
